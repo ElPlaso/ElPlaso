@@ -13,6 +13,9 @@
 <h3 align="center">🌱 I'm currently learning ... </h3>
 <p align="center">
   <p align="center"> 
+    <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="dart" width="40" height="40"/>
+    </a> 
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.cdnlogo.com/logos/f/30/flutter.svg" alt="flutter" width="40" height="40"/> 
     </a> 
