@@ -6,7 +6,7 @@
 <h3 align="center">👀 I’m interested in ... </h3>
 <p align="center">
   <h3 align="center"> 
-    👨‍💻 🛹 🎸 ♟️ 🧩 🎨 
+    👨‍💻 🕸️ 📱 🛹 🎸 ♟️ 🧩 🎨 
   </h3>
 </p>
 
